@@ -11,6 +11,7 @@
 		154A5D182CB6B5FC001A1D7B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 154A5D172CB6B5FC001A1D7B /* ContentView.swift */; };
 		154A5D1A2CB6B5FD001A1D7B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 154A5D192CB6B5FD001A1D7B /* Assets.xcassets */; };
 		154A5D1D2CB6B5FD001A1D7B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 154A5D1C2CB6B5FD001A1D7B /* Preview Assets.xcassets */; };
+		154A5D242CB6B765001A1D7B /* toy_biplane_idle.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 154A5D232CB6B765001A1D7B /* toy_biplane_idle.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		154A5D172CB6B5FC001A1D7B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		154A5D192CB6B5FD001A1D7B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		154A5D1C2CB6B5FD001A1D7B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		154A5D232CB6B765001A1D7B /* toy_biplane_idle.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = toy_biplane_idle.usdz; path = ../../../../Downloads/toy_biplane_idle.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 				154A5D152CB6B5FC001A1D7B /* AppDelegate.swift */,
 				154A5D172CB6B5FC001A1D7B /* ContentView.swift */,
 				154A5D192CB6B5FD001A1D7B /* Assets.xcassets */,
+				154A5D232CB6B765001A1D7B /* toy_biplane_idle.usdz */,
 				154A5D1B2CB6B5FD001A1D7B /* Preview Content */,
 			);
 			path = "ARKit-Viewer";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				154A5D1D2CB6B5FD001A1D7B /* Preview Assets.xcassets in Resources */,
+				154A5D242CB6B765001A1D7B /* toy_biplane_idle.usdz in Resources */,
 				154A5D1A2CB6B5FD001A1D7B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
